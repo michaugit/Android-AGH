@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">michal_pieniadz_czw_08_00</string>
+    <string name="exchange_rates">Kursy walut</string>
+    <string name="gold">Złoto</string>
+    <string name="converter">Przelicznik</string>
+    <string name="gold_rate_tv_default">Aktualny kurs: null </string>
+    <string name="gold_rate_tv">Aktualny kurs: %1$s </string>
+    <string name="today_rate_tv_default">Dzisiejszy kurs: null </string>
+    <string name="today_rate_tv">Dzisiejszy kurs: %1$s </string>
+    <string name="yesterday_rate_tv_default">Wczorajszy kurs: null </string>
+    <string name="yesterday_rate_tv">Wczorajszy kurs: %1$s </string>
+    <string name="seven_day_chart_desc">Ostatnie 7 dni:</string>
+    <string name="thirty_day_chart_desc">Ostatnie 30 dni:</string>
+    <string name="gold_title">ZŁOTO</string>
+    <string name="converter_title">PRZELICZNIK</string>
+    <string name="pln_tv">PLN:</string>
+</resources>
